@@ -1,3 +1,1 @@
-# FinanceGo
-# FinanceGo
-# FinanceGo
+My first full stack project
